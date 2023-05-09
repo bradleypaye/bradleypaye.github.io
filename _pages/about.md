@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bradley Paye's personal website"
+title: "Bradley Paye's research website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
