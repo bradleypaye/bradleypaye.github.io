@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, Washington and Lee University, 1996
+* Ph.D in Economics, University of California, San Diego 2004
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Prof. of Finance, Virginia Tech (2016-present)
+* Assistant Prof. of Finance, University of Georgia (2011-2016)
+* Assistant Prof. of Finance, Rice University (2004-2011)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* At Virginia Tech
+  * Financial Analytics (FIN 3134), 2016--present, approximately 20 sections
+  * FinTech Capstone (FIN 4xxx), 2023 (fall, upcoming)
+* At UGA
+  * Financial Institutions and Markets (FINA 4000), 2012-2016
+  * Computers in Finance (FINA 4920), 2012-2013, Excel-based finance course
+  * Financial Reserach Methodology (FINA 9130), 2014-2015, PhD course
+* At Rice
+  * Managerial Economics, (MBA/EMBA course) 2004-2011
+  * Financial Forecasting, (MBA course) 2011
 
-Publications
+Publications (most recent)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of department recruiting and PhD committees
