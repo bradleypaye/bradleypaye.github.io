@@ -24,7 +24,7 @@ Teaching
 ======
 * At Virginia Tech
   * Financial Analytics (FIN 3134), 2016--present, approximately 20 sections
-  * FinTech Capstone (FIN 4xxx), 2023 (fall, upcoming)
+  * FinTech Capstone (FIN 4314), 2023 (fall, upcoming)
 * At UGA
   * Financial Institutions and Markets (FINA 4000), 2012-2016
   * Computers in Finance (FINA 4920), 2012-2013, Excel-based finance course
@@ -35,11 +35,8 @@ Teaching
 
 Publications (most recent)
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [One Vol to Rule Them All: Common Volatility Dynamics in Factor Returns](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/one-vol-to-rule-them-all-common-volatility-dynamics-in-factor-returns/5BEDEC0919C026DA608AE58C8C966A56), with Nishad Kapadia and Matthew Linn, forthcoming at Journal of Financial and Quantitative Analysis
   
-  
-Service and leadership
+Service 
 ======
 * Member of department recruiting and PhD committees
