@@ -40,17 +40,17 @@ Publications
 ======
 Published & Forthcoming Papers
 ------
-* Fernandes, Marcelo, Bradley Paye, and Carolina Magda da Silva Roma. "The Equity Premium and the Disconnect between Uncertainty and Volatility: A Global Perspective." *Quarterly Review of Economics and Finance*, vol. 103, 2025, art. #102010.
-* Kapadia, Nishad, Matthew Linn, and Bradley Paye. "One Vol to Rule Them All: Common Volatility Dynamics in Factor Returns." *Journal of Financial and Quantitative Analysis*, vol. 59(3), 2024, pp. 1185&ndash;1212.
-* Easterwood, Sara, Jeffry Netter, Bradley Paye, and Michael Stegemoller. "Taking Over the Size Effect: Asset Pricing Implications of Merger Activity." *Journal of Financial and Quantitative Analysis*, vol. 59(2), 2024, pp. 690&ndash;726.
-* Johnson, James A., Marcelo Medeiros, and Bradley S. Paye. "Jumps in Stock Prices: New Insights from Old Data." *Journal of Financial Markets*, vol. 60, 2022, art. #100708.
-* Easterwood, John, Bradley S. Paye, and Yutong Xie. "Firm Uncertainty and Corporate Policies: The Role of Stock Return Skewness." *Journal of Corporate Finance*, vol. 69, 2021, art. #102032.
-* Chen, Yong, Gregory W. Eaton, and Bradley S. Paye. "Micro(structure) Before Macro? The Predictive Power of Aggregate Illiquidity for Stock Returns and Economic Activity." *Journal of Financial Economics*, vol. 130, no. 1, 2018, pp. 48&ndash;73.
-* Eaton, Gregory, and Bradley S. Paye. "Payout Yields and Stock Return Predictability: How Important Is the Measure of Cash Flow?" *Journal of Financial and Quantitative Analysis*, vol. 52, no. 4, 2017, pp. 1639&ndash;1666.
-* Paye, Bradley S. "'Deja vol': Predictive Regressions for Aggregate Stock Market Volatility Using Macroeconomic Variables." *Journal of Financial Economics*, vol. 106, no. 3, 2012, pp. 527&ndash;546.
-* Grullon, Gustavo, Bradley Paye, Shane Underwood, and James P. Weston. "Has the Propensity to Pay Out Declined?" *Journal of Financial and Quantitative Analysis*, vol. 46, no. 1, 2011, pp. 1&ndash;24.
-* Fleming, Jeff, and Bradley S. Paye. "High-Frequency Returns, Jumps and the Mixture of Normals Hypothesis." *Journal of Econometrics*, vol. 160, no. 1, 2011, pp. 119&ndash;128.
-* Paye, Bradley S., and Allan Timmermann. "Instability of Return Prediction Models." *Journal of Empirical Finance*, vol. 13, no. 3, 2006, pp. 274&ndash;315.
+* Fernandes, Marcelo, Bradley Paye, and Carolina Magda da Silva Roma. "The Equity Premium and the Disconnect between Uncertainty and Volatility: A Global Perspective." *Quarterly Review of Economics and Finance*, vol. 103, 2025, art. #102010. [[DOI]](https://doi.org/10.1016/j.qref.2025.102010)
+* Kapadia, Nishad, Matthew Linn, and Bradley Paye. "One Vol to Rule Them All: Common Volatility Dynamics in Factor Returns." *Journal of Financial and Quantitative Analysis*, vol. 59(3), 2024, pp. 1185&ndash;1212. [[DOI]](https://doi.org/10.1017/S0022109023000443)
+* Easterwood, Sara, Jeffry Netter, Bradley Paye, and Michael Stegemoller. "Taking Over the Size Effect: Asset Pricing Implications of Merger Activity." *Journal of Financial and Quantitative Analysis*, vol. 59(2), 2024, pp. 690&ndash;726. [[DOI]](https://doi.org/10.1017/S0022109023000030)
+* Johnson, James A., Marcelo Medeiros, and Bradley S. Paye. "Jumps in Stock Prices: New Insights from Old Data." *Journal of Financial Markets*, vol. 60, 2022, art. #100708. [[DOI]](https://doi.org/10.1016/j.finmar.2022.100708)
+* Easterwood, John, Bradley S. Paye, and Yutong Xie. "Firm Uncertainty and Corporate Policies: The Role of Stock Return Skewness." *Journal of Corporate Finance*, vol. 69, 2021, art. #102032. [[DOI]](https://doi.org/10.1016/j.jcorpfin.2021.102032)
+* Chen, Yong, Gregory W. Eaton, and Bradley S. Paye. "Micro(structure) Before Macro? The Predictive Power of Aggregate Illiquidity for Stock Returns and Economic Activity." *Journal of Financial Economics*, vol. 130, no. 1, 2018, pp. 48&ndash;73. [[DOI]](https://doi.org/10.1016/j.jfineco.2018.05.011)
+* Eaton, Gregory, and Bradley S. Paye. "Payout Yields and Stock Return Predictability: How Important Is the Measure of Cash Flow?" *Journal of Financial and Quantitative Analysis*, vol. 52, no. 4, 2017, pp. 1639&ndash;1666. [[DOI]](https://doi.org/10.1017/S0022109017000370)
+* Paye, Bradley S. "'Deja vol': Predictive Regressions for Aggregate Stock Market Volatility Using Macroeconomic Variables." *Journal of Financial Economics*, vol. 106, no. 3, 2012, pp. 527&ndash;546. [[DOI]](https://doi.org/10.1016/j.jfineco.2012.06.005)
+* Grullon, Gustavo, Bradley Paye, Shane Underwood, and James P. Weston. "Has the Propensity to Pay Out Declined?" *Journal of Financial and Quantitative Analysis*, vol. 46, no. 1, 2011, pp. 1&ndash;24. [[DOI]](https://doi.org/10.1017/S0022109010000633)
+* Fleming, Jeff, and Bradley S. Paye. "High-Frequency Returns, Jumps and the Mixture of Normals Hypothesis." *Journal of Econometrics*, vol. 160, no. 1, 2011, pp. 119&ndash;128. [[DOI]](https://doi.org/10.1016/j.jeconom.2010.03.024)
+* Paye, Bradley S., and Allan Timmermann. "Instability of Return Prediction Models." *Journal of Empirical Finance*, vol. 13, no. 3, 2006, pp. 274&ndash;315. [[DOI]](https://doi.org/10.1016/j.jempfin.2005.11.001)
 
 Working Papers
 ------
@@ -115,13 +115,13 @@ Conference Presentations
 
 Invited Seminars and Workshops
 ------
-Louisiana State University (2026, scheduled); University of Virginia (2023); University of North Texas (2022); Washington and Lee University (2021); Aarhus University (2021, virtual); Daniels College of Business, Denver University (2020); Spears School of Business, Oklahoma State University (2019); Duke University Financial Econometrics Workshop (2019); Carson College of Business, Washington State University (2019); Pamplin College of Business, Virginia Tech (2016); Southern Methodist University (2013); Center for the Study of Finance and Insurance at Osaka University (2012); Pamplin College of Business, Virginia Tech (2011); Georgia State University (2010); University of Georgia (2010); Board of Governors of the Federal Reserve (2010, 2009, 2004); Bauer College of Business, University of Houston (2008); HEC Montreal (2007); Department of Economics, Rice University (2006); Rady School of Management, University of California, San Diego (2005); Office of the Comptroller of the Currency (2004); Bureau of Economic Analysis (2004); Bates White (2004).
+Louisiana State University (2026); University of Virginia (2023); University of North Texas (2022); Washington and Lee University (2021); Aarhus University (2021, virtual); Daniels College of Business, Denver University (2020); Spears School of Business, Oklahoma State University (2019); Duke University Financial Econometrics Workshop (2019); Carson College of Business, Washington State University (2019); Pamplin College of Business, Virginia Tech (2016); Southern Methodist University (2013); Center for the Study of Finance and Insurance at Osaka University (2012); Pamplin College of Business, Virginia Tech (2011); Georgia State University (2010); University of Georgia (2010); Board of Governors of the Federal Reserve (2010, 2009, 2004); Bauer College of Business, University of Houston (2008); HEC Montreal (2007); Department of Economics, Rice University (2006); Rady School of Management, University of California, San Diego (2005); Office of the Comptroller of the Currency (2004); Bureau of Economic Analysis (2004); Bates White (2004).
 
 Other Conference Participation
 ======
 Conference and Workshop Organization
 ------
-* Blue Ridge Finance Workshop (formerly Commonwealth Finance Workshop): co-organizer, 2023&ndash;2025
+* Blue Ridge Finance Workshop (formerly Commonwealth Finance Workshop): co-organizer, 2023&ndash;2026
 
 Paper Discussions
 ------
