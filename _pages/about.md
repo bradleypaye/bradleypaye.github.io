@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Welcome! I am an Assistant Professor of Finance in the Pamplin College of Business at Virginia Tech. 
+Welcome! I am an Associate Professor of Finance in the Pamplin College of Business at Virginia Tech. 
 
 My research interests include:
 1. Empirical asset pricing
@@ -20,6 +20,4 @@ My research interests include:
 5. Econometrics
 6. Experimental economics and neurofinance 
 
-Work-in-progress!
-======
-I will be working on this website in the near future. For a more complete or polished site, see my **[Owlstown page](https://bradleypaye.owlstown.net/)**.
+I received my Ph.D. in Economics from the University of California, San Diego, and previously held faculty positions at Rice University and the University of Georgia. See my [CV](/cv/) for a full list of publications, working papers, and other details.
