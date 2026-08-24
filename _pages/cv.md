@@ -77,7 +77,7 @@ Teaching Experience
 ======
 Pamplin College of Business, Virginia Tech
 ------
-* FinTech &ndash; Quantitative Finance Capstone (FIN 4414) &mdash; undergraduate capstone course for the FinTech and Big Data Analytics major, 2025&ndash;present. [[Catalog]](https://catalog.vt.edu/undergraduate/course-descriptions/fin/) [[GitHub]](https://github.com/bradleypaye/fin4414)
+* FinTech &ndash; Quantitative Finance Capstone (FIN 4414) &mdash; undergraduate capstone course for the FinTech and Big Data Analytics major, 2023&ndash;present. [[Catalog]](https://catalog.vt.edu/undergraduate/course-descriptions/fin/) [[GitHub]](https://github.com/bradleypaye/fin4414)
 * Financial Analytics (FIN 3134) &mdash; undergraduate course, 2016&ndash;2025. [[Catalog]](https://catalog.vt.edu/undergraduate/course-descriptions/fin/)
 
 Terry College of Business, University of Georgia
